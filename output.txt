@@ -1,0 +1,45 @@
+Output: 
+
+Monday:
+
+- "Bill" works shift night [requested].
+- "Jeff" works shift morning [requested].
+- "John" works shift afternoon [requested].
+
+Tuesday:
+
+- "Will" works shift afternoon [requested].
+- "John" works shift morning [requested].
+- "Peter" works shift night [not requested].
+
+Wednesday:
+
+- "Bill" works shift morning [requested].
+- "Jeff" works shift afternoon [not requested].
+- "John" works shift night [not requested].
+
+Thursday:
+
+- "Will" works shift afternoon [not requested].
+- "John" works shift night [requested].
+- "Peter" works shift morning [requested].
+
+Friday:
+
+- "Bill" works shift afternoon [requested].
+- "Will" works shift night [not requested].
+- "Jeff" works shift morning [requested].
+
+Saturday:
+
+- "Bill" works shift morning [requested].
+- "Jeff" works shift afternoon [requested].
+- "Peter" works shift night [requested].
+
+Sunday:
+
+- "Bill" works shift night [requested].
+- "Will" works shift afternoon [not requested].
+- "Peter" works shift morning [requested].
+
+Successful shift requests: 15.0
